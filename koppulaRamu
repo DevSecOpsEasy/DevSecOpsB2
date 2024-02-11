@@ -1,0 +1,2 @@
+origin knows only main branch..it doesn't know other branch until we give a command "git branch -r"  
+   
